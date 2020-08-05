@@ -7,3 +7,9 @@ body {
     border-bottom: #20b2aa 3px solid;
     opacity: 0.8;
 }
+
+#home-section {
+    background-size: cover;
+    background: url(../img/home.jpg) no-repeat fixed;
+    min-height: 700px;
+}

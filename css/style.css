@@ -49,3 +49,8 @@ body {
 .bg-primary {
     background-color: #20b2aa!important;
 }
+.btn-primary{
+    color: #fff;
+    background-color: #20b2aa!important;
+    border-color: #20b2aa!important;
+}
